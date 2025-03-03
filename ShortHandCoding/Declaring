@@ -1,7 +1,0 @@
-/* //LH
-let x;
-let y;
-let Z = 2; */
-
-//SH
-let x, y, z=3;
