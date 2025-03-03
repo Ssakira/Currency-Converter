@@ -44,4 +44,4 @@ async function convertCurrency() {
 
   resultDiv.innerText = `${amount} ${fromCurrency} = ${convertedAmount} ${toCurrency}`; //diplay conversion result like 100 USD = 14017.00 NPR
 }
-window.onload = loadCurrencies; // Load currencies when page loads
+window.onload = loadCurrencies;// Load currencies when page loads
