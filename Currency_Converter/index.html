@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h2>Currency Converter</h2>
+      <img
+        src="https://media.istockphoto.com/id/1345291420/vector/give-or-receive-money-pay-for-something.jpg?s=612x612&w=0&k=20&c=CUNAnDQY3LE8skrYagI6EUlZVZDK5HSk7gwyoe6apw8="
+        alt="Money Exchanging"
+        class="money-image"
+      />
+      <div class="input-group">
+        <input type="number" id="amount" placeholder="Enter Amount" />
+        <select id="fromCurrency"></select>
+        <select id="toCurrency"></select>
+      </div>
+
+      <button onclick="convertCurrency()">Convert</button>
+      <div class="result" id="result">Converted Amount will appear here.</div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
