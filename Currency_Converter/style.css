@@ -1,0 +1,54 @@
+body {
+  display: flex; /*easy centering*/
+  justify-content: center; /*centers the content horizontally*/
+  align-items: center; /*centers the content vertically*/
+  height: 100vh; /*body takes full viewport height*/
+  background-color: #f0f0f0; /*light grey background*/
+  margin: 0; /*removes any default margin*/
+  font-family: Arial, sans-serif; /*sets modern font*/
+}
+
+.container {
+  background-color: white; /*white background*/
+  padding: 20px; /*add some space inside container*/
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /*adds a soft shadow around box*/
+  border-radius: 10px; /*rounds the corner slightly*/
+  text-align: center; /*centers text inside container*/
+  width: 300px;
+}
+
+.input-group {
+  display: flex;
+  gap: 10px; /*adds 10px spacing between child element (imput field and the selects)*/
+  margin-bottom: 15px; /*adds some space below input group before the button*/
+}
+
+input,
+select,
+button {
+  padding: 10px;
+  font-size: 14px;
+  width: 100%;
+}
+.money-image {
+  width: 100px;
+  height: 100px;
+  margin: 10px auto; /*centers the image horizontally and adds 10px space above and below*/
+  display: block; /*forces it to behave like a block element so margin:auto works properly*/
+}
+
+button {
+  background-color: #28a745;
+  color: white; /*makes text white*/
+  border: none; /*removes any default border*/
+  cursor: pointer; /*change the mouse cursor to pointer*/
+}
+
+button:hover {
+  background-color: #218838; /*when hovers over button it slightly change into darker green*/
+}
+
+.result {
+  margin-top: 15px; /*create space above the result text*/
+  font-weight: bold; /*makes result text bold*/
+}
