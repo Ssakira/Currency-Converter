@@ -14,7 +14,7 @@ The app allows users to:
 
 ## 🌐 Demo
 
-You can [view the project live here](https://ssakira.github.io/Currency-Converter/)
+You can [view the project live here](http://192.168.100.4:5500/Currency_Converter/index.html)
 
 ---
 
