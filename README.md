@@ -38,7 +38,7 @@ You can [view the project live here](http://192.168.100.4:5500/Currency_Converte
 
 ## ✨ Screenshot
 
-![Currency Converter Screenshot](![Screenshot](Screenshot.png)
+![Currency Converter Screenshot](![Screenshot]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot.png.png")
 )
 
 ---
