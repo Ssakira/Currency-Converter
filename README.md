@@ -38,7 +38,7 @@ You can [view the project live here](http://192.168.100.4:5500/Currency_Converte
 
 ## ✨ Screenshot
 
-![Currency Converter Screenshot](![Screenshot](https://github.com/user-attachments/assets/a8a882f9-c470-4f2b-bb34-fac0dd581c8a)
+![Currency Converter Screenshot](![Screenshot](Screenshot.png)
 )
 
 ---
